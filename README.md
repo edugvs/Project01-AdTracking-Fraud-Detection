@@ -5,6 +5,7 @@ The TalkingData (https://www.talkingdata.com), China's largest independent Big D
 
 Although successful, they always want to be one step ahead of fraudsters and have asked for their help to further develop the solution.  In summary, using a dataset available on Kaggle (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview) I have built an algorithm that can predict whether a user will download an app after clicking on a mobile app ad to determine whether a click is fraudulent or not. I used R language for this project construction.  
 
+Click on the link to see more details: https://edugvs.github.io/Project01-AdTracking-Fraud-Detection/index.html
 
 ![GitHub Logo](preview.png)
 
