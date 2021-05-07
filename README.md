@@ -1,4 +1,4 @@
-# Project01-Detection-Click-Traffic-Fraud-in-Mobile-App-Ads
+# Project01: AdTracking Fraud Detection for Mobile App Advertising
 
 <div align="justify">The risk of fraud is everywhere, but for companies that advertise online click, fraud can happen in an overwhelming amount, resulting in misleading click data and wasted money. Ad placements can increase costs simply when people or bots click on ads on a large scale, which in practice does not yield the expected result. With more than one billion mobile devices in use every month, China is the largest mobile market in the world and therefore suffers from high volumes of fraudulent traffic.  
 
